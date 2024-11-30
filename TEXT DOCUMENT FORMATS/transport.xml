@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="car">
+        <name>Fiat Panda</name>
+        <capacity>5</capacity>
+        <speed unit="km/h">100</speed>
+        <usage>Daily commute</usage>
+    </vehicle>
+    <vehicle type="bicycle">
+        <name>Mtb Kross Level Limited</name>
+        <capacity>1</capacity>
+        <speed unit="km/h">25</speed>
+        <usage>Hobby</usage>
+    </vehicle>
+    <vehicle type="train">
+        <name>Polregio Train</name>
+        <capacity>200</capacity>
+        <speed unit="km/h">150</speed>
+        <usage>Long-distance travel</usage>
+    </vehicle>
+</transport>

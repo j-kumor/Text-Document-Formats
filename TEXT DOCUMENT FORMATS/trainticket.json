@@ -1,0 +1,9 @@
+{
+    "ticket_number": "A123456789",
+    "departure_station": "Warszawa Centralna",
+    "arrival_station": "Kraków Główny",
+    "departure_time": "2024-12-05T10:30:00",
+    "seat_number": 45,
+    "ticket_price": 120.50,
+    "is_first_class": false
+  }

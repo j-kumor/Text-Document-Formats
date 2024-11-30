@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>
+        <name>Julia Kumor</name>
+        <emailAddress>juliakumor@example.com</emailAddress>
+    </sender>
+    <recipient>
+        <name>Kuba Nowak</name>
+        <emailAddress>kubanowak@example.com</emailAddress>
+    </recipient>
+    <subject>Photos</subject>
+    <body>
+        Hey I'm sending you the vacation photos you asked for.
+    </body>
+    <attachments>
+        <attachment>photos.pdf</attachment>
+    </attachments>
+</email>
